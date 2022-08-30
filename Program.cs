@@ -1,4 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Alteração realizada por Felipe Maia Lopes Sinoti
+
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
 var i = 3;           // i é implicitamente do tipo int
