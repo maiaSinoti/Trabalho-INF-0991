@@ -18,3 +18,4 @@ var vowels = new[] { 'a', 'e', 'i', 'o', 'u' };   // Compilador infere o tipo ch
 var x = new[] { 1, 10000000000 };           // Legal - todos os elementos são convertidos para o tipo long
 
 Console.WriteLine("X:" + x); // Printar a variavel x Alterado por Gustavo Feliciano 
+Console.WriteLine("MATRIX: " + rectMatrix); //Feito por Gustavo Feliciano
