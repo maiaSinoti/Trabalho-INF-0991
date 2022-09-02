@@ -16,3 +16,5 @@ var rectMatrix = new int[,]    // rectMatrix é implicitamente do tipo int[,]
 
 var vowels = new[] { 'a', 'e', 'i', 'o', 'u' };   // Compilador infere o tipo char[]
 var x = new[] { 1, 10000000000 };           // Legal - todos os elementos são convertidos para o tipo long
+
+Console.WriteLine("X:" + x); // Printar a variavel x Alterado por Gustavo Feliciano 
